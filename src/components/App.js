@@ -43,7 +43,7 @@ class App extends Component {
         text: "Sprzedać butelki po piwie (20 skrzynek)",
         date: "2020-11-12",
         important: false,
-        active: false,
+        active: true,
         finishDate: null,
       },
       {
